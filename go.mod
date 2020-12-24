@@ -1,4 +1,4 @@
-module github.com/cloudwebrtc/flutter-webrtc-server
+module github.com/shofizone/flutter-webrtc-server
 
 go 1.13
 
