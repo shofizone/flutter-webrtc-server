@@ -1,5 +1,7 @@
 github.com/chuckpreslar/emission v0.0.0-20170206194824-a7ddd980baf9 h1:xz6Nv3zcwO2Lila35hcb0QloCQsc38Al13RNEzWRpX4=
 github.com/chuckpreslar/emission v0.0.0-20170206194824-a7ddd980baf9/go.mod h1:2wSM9zJkl1UQEFZgSd68NfCgRz1VL1jzy/RjCg+ULrs=
+github.com/cloudwebrtc/flutter-webrtc-server v0.0.0-20201130053944-3600e2d201d4 h1:z4WEtr0pWQvSYYpfl1Y3FtZUG/mR6BMVQjHMCeqjMzw=
+github.com/cloudwebrtc/flutter-webrtc-server v0.0.0-20201130053944-3600e2d201d4/go.mod h1:bLV7hQ0NAYGq23l7pIFsFn1yITq4TYwcsN7vWYrHqms=
 github.com/coreos/go-systemd v0.0.0-20190321100706-95778dfbb74e/go.mod h1:F5haX7vjVVG0kc13fIWeqUViNPyEJxv/OmvnBo0Yme4=
 github.com/davecgh/go-spew v1.1.0 h1:ZDRjVQ15GmhC3fiQ8ni8+OwkZQO4DARzQgrnXU1Liz8=
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
